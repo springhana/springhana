@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=&animation=twinkling&height=80&width=100)
 
@@ -6,10 +6,33 @@
 
 <br/>
 
+# 🤞 Nice to meet me
+
+안녕하세요!! Front-End 개발자 
+
+<div> 
+  <div>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspringhana%2Fspringhana&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false" />
+    <br/>
+    <a href="https://hits.seeyoufarm.com](https://github.com/springhana/github-readme-stats)">
+      <img src="https://github-readme-stats.vercel.app/api?username=springhana&include_all_commits=true&show_icons=true&theme=tokyonight" />
+    </a>
+  </div>
+  <br/>
+  <div>
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xksxksanfro" />
+    <br/>
+    <a href="https://solved.ac/xksxksanfro/">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xksxksanfro" />
+    </a>
+  </div>
+</div>
+
+
 # 🛠️Skills
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;"> 
-  <div>
+  <div align:center>
     <p><strong>FrontEnd</strong></p>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp 
@@ -46,10 +69,6 @@
 
 - - -
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspringhana%2Fspringhana&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  
-[![springhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=springhana&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/springhana/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xksxksanfro)](https://solved.ac/xksxksanfro/)
 
 </center>
