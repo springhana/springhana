@@ -8,7 +8,19 @@
 
 # 🤞 Nice to meet me
 
-안녕하세요!! Front-End 개발자 
+<div style="display:flex; flex-direction:column; align-items:flex-start;"> 
+  <div align:center>
+    <a href="https://velog.io/@springhana">
+        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+    </a>
+    <a href="mailto:xksxksanfro7@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+
+  </div>
+</div>
+
+<br/>
 
 <div> 
   <div>
@@ -64,11 +76,9 @@
     <p><strong>Tools</strong></p>
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp 
   </div>
 </div>
-
-- - -
-
-
 
 </center>
