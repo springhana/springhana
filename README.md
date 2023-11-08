@@ -8,16 +8,13 @@
 
 # 🤞 Nice to meet me
 
-<div style="display:flex; flex-direction:column; align-items:flex-start;"> 
-  <div align:center>
+<div>
     <a href="https://velog.io/@springhana">
-        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
     </a>
     <a href="mailto:xksxksanfro7@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-
-  </div>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /> 
+    </a>  
 </div>
 
 <br/>
@@ -26,7 +23,7 @@
   <div>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspringhana%2Fspringhana&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false" />
     <br/>
-    <a href="https://hits.seeyoufarm.com](https://github.com/springhana/github-readme-stats)">
+    <a href="https://github.com/springhana/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=springhana&include_all_commits=true&show_icons=true&theme=tokyonight" />
     </a>
   </div>
@@ -44,7 +41,7 @@
 # 🛠️Skills
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;"> 
-  <div align:center>
+  <div>
     <p><strong>FrontEnd</strong></p>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp 
