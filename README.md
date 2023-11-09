@@ -9,12 +9,19 @@
 # 🤞 Nice to meet me
 
 <div>
-    <a href="https://velog.io/@springhana">
-      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
-    </a>
-    <a href="mailto:xksxksanfro7@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /> 
-    </a>  
+    
+<a href="https://velog.io/@springhana">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
+</a>
+    
+<a href="mailto:xksxksanfro7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /> 
+</a> 
+    
+<a href="https://picayune-rayon-004.notion.site/Green-Home-bc29c8c7cb924fdd842efb74ec679f93?pvs=4">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+
 </div>
 
 <br/>
