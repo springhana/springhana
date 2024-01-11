@@ -38,9 +38,9 @@
   <div>
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xksxksanfro" />
     <br/>
-    <a href="https://solved.ac/xksxksanfro/">
+<!--     <a href="https://solved.ac/xksxksanfro/">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xksxksanfro" />
-    </a>
+    </a> -->
   </div>
 </div>
 
