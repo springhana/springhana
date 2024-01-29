@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=&animation=twinkling&height=80&width=100)
 
@@ -57,25 +57,22 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp 
   </div>
-  <br/>
   <div>
     <p><strong>BackEnd</strong></p>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp 
   </div>
-  <br/>
   <div>
     <p><strong>DataBase</strong></p>
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>&nbsp 
   </div>
-  <br/>
   <div>
     <p><strong>State</strong></p>
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp 
   </div>
-  <br/>
   <div>
     <p><strong>Tools</strong></p>
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp 
