@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /> 
 </a> 
     
-<a href="https://picayune-rayon-004.notion.site/Green-Home-bc29c8c7cb924fdd842efb74ec679f93?pvs=4">
+<a href="https://picayune-rayon-004.notion.site/d1d88de442ba476bba5f9db40e424c51?pvs=4">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
