@@ -69,6 +69,7 @@
   <div>
     <p><strong>State</strong></p>
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/zustand-764ABC?style=for-the-badge&logo=zustand&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp 
   </div>
   <div>
